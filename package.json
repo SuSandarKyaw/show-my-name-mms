@@ -1,0 +1,14 @@
+{
+  "name": "show-my-name-mms",
+  "version": "1.0.0",
+  "description": "san kyi tar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "show-my-name-mms"
+  ],
+  "author": "Su Sandar Kyaw",
+  "license": "ISC"
+}
